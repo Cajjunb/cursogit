@@ -1,3 +1,3 @@
 # cursogit
 
-OPA ESSE É UM README!
+OPA ESSE NÃO É UM README!
